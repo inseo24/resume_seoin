@@ -1,6 +1,6 @@
 # Seoin's React JS Resume(from papa react)
 
-### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
+### <a href="https://epic-heisenberg-b113fd.netlify.app/">Resume Preview</a>
 
 ## Description
 
@@ -42,8 +42,8 @@
 
 1. build 폴더를 열고,
 2. <a href="https://www.netlify.com/">Netlify</a>로 가서 profile을 셋팅합니다.
-3. 'Sites Tab'으로 이동합니다.
-4. designated upload space에 빌드 폴더를 드래그 앤 드롭합니다.
+3. 'Sites 메뉴'로 이동합니다.
+4. upload space에 빌드 폴더를 드래그 앤 드롭합니다.
 5. 앱이 배포되고 URL에 접속할 수 있게 됩니다.
 
 🚀 BOOM!!!
