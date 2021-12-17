@@ -1,6 +1,6 @@
 # Seoin's React JS Resume(from papa react)
 
-### <a href="https://epic-heisenberg-b113fd.netlify.app/">Resume Preview</a>
+### <a href="https://epic-heisenberg-b113fd.netlify.app/">Resume 바로가기</a>
 
 ## Description
 
