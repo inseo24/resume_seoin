@@ -1,54 +1,52 @@
-# PAPA React JS Resume Starter Pack and Digital Portfolio
-
-![PAPA React JS Portfolio Starter Pack](resume-screenshot.jpg?raw=true "PAPA React JS Portfolio Stater Pack ")
+# Seoin's React JS Resume(from papa react)
 
 ### <a href="https://resume-portfolio-starter-pack.herokuapp.com">LIVE DEMO</a>
 
-## Resume Starter Pack Description
+## Description
 
-This portfolio starter pack is made using React. The data on the portfolio is directly linked to a JSON file. Any changes to the portfolio can be made in the JSON file. The changes will then be reflected on to the portfolio. This allows you to customize your own personal portfolio that can be used for applying to jobs or other personal uses.
+이 포트폴리오는 리액트를 이용해 작성된 것으로 papa react의 starter pack을 이용해 작성되었습니다. 데이터는 포함된 JSON 파일에서 받아오며 그 걸 변경해 다시 작성할 수 있습니다.
 
 ## 1. Make sure you have NODE installed!
 
-Firstly, you will need to download the latest version of Node by <a href="https://nodejs.org/en/download/">CLICKING HERE</a>
+노드를 설치하세요.
 
 ## 2. Clone the repo!
 
-Next, you will need to run the following command in the Terminal to clone the repo onto your machine.
+이 레포지터리를 터미널로 clone 하세요.
 
-```git clone https://github.com/sonnysangha/Resume-Portfolio-Starter-pack.git```
+`git clone https://github.com/inseo24/resume_seoin.git`
 
 ## 3. Install Dependancies
 
-Next, you need to install all the dependancies using:
+필요한 의존성을 설치합니다.
 
-```npm install```
+`npm install`
 
-Once this is done, you can start the app with:
+설치가 완료되면 프로젝트를 시작합니다.
 
-```npm start```
+`npm start`
 
 ## 4. Fill in your personal info
 
-To populate the website with all of your own data, open the public/resumeData.json file and simply replace the data in there with your own. Images for the porfolio section are to be put in the public/images/portfolio folder.
+데이터를 자신의 정보로 바꿔서 작성하면 됩니다.
 
 ## 5. (OPTIONAL) Replacing images and/or fonts
 
-If you want to display your own pictures then you have to replace the files at these locations: public/images/header-background.jpg, public/images/testimonials-bg.jpg and public/favicon.ico. FILE NAMES MUST NOT BE CHANGED else the code referencing these images will no longer work.
+파비콘이나 기타 이미지를 변경해서 적용할 수 있습니다. public에 들어있는 이미지 파일을 자신의 것으로 변경해 보세요.
 
 ## 7. Finalising Resume
 
-Once all the formatting and data input is finalised, run `npm run build`. This will create a dedicated build folder.
+데이터 변경을 마쳤다면 `npm run build`로 빌드하세요.
 
 ## 8. Host Resume Online
 
-1) Open the build folder in the finder screen
-2) Go to <a href="https://www.netlify.com/">Netlify</a> and set up a profile
-3) Go to the 'Sites Tab'
-4) Simply Drag and drop the 'Build' Folder into the designated upload space
-5) The app will begin deploying & the deployment URL will be presented!
+1. build 폴더를 열고,
+2. <a href="https://www.netlify.com/">Netlify</a>로 가서 profile을 셋팅합니다.
+3. 'Sites Tab'으로 이동합니다.
+4. designated upload space에 빌드 폴더를 드래그 앤 드롭합니다.
+5. 앱이 배포되고 URL에 접속할 수 있게 됩니다.
 
-🚀 BOOM, you are now LIVE!!!
+🚀 BOOM!!!
 
 ## Credits
 
